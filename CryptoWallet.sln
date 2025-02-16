@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoWallet.Server", "CryptoWallet\CryptoWallet.Server.csproj", "{06F730E3-5095-4AF4-87DA-7F6A9169C161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoWallet.Domain", "CryptoWallet.Domain\CryptoWallet.Domain.csproj", "{F8EE20B9-1B18-4CBB-A2F7-23A78CF7FB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoWallet.Application", "CryptoWallet.Application\CryptoWallet.Application.csproj", "{7CBA851E-1B68-4FD0-8A7D-1A48EB7A7D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoWallet.Infrastructure", "CryptoWallet.Infrastructure\CryptoWallet.Infrastructure.csproj", "{D9D06415-02CE-4ABC-8223-5E618664CF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoWallet.Test", "CryptoWallet.Test\CryptoWallet.Test.csproj", "{08A4697D-3CF3-4A09-8832-12EE24044A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F730E3-5095-4AF4-87DA-7F6A9169C161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F730E3-5095-4AF4-87DA-7F6A9169C161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F730E3-5095-4AF4-87DA-7F6A9169C161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F730E3-5095-4AF4-87DA-7F6A9169C161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EE20B9-1B18-4CBB-A2F7-23A78CF7FB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EE20B9-1B18-4CBB-A2F7-23A78CF7FB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EE20B9-1B18-4CBB-A2F7-23A78CF7FB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EE20B9-1B18-4CBB-A2F7-23A78CF7FB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBA851E-1B68-4FD0-8A7D-1A48EB7A7D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBA851E-1B68-4FD0-8A7D-1A48EB7A7D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBA851E-1B68-4FD0-8A7D-1A48EB7A7D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBA851E-1B68-4FD0-8A7D-1A48EB7A7D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D06415-02CE-4ABC-8223-5E618664CF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D06415-02CE-4ABC-8223-5E618664CF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D06415-02CE-4ABC-8223-5E618664CF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D06415-02CE-4ABC-8223-5E618664CF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A4697D-3CF3-4A09-8832-12EE24044A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A4697D-3CF3-4A09-8832-12EE24044A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A4697D-3CF3-4A09-8832-12EE24044A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A4697D-3CF3-4A09-8832-12EE24044A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

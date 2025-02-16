@@ -1,0 +1,50 @@
+﻿# Default ignored files
+/shelf/
+workspace.xml
+
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.CryptoWallet.iml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+dataSources.local.xml
+
+# .NET Core
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Visual Studio
+.vs/
